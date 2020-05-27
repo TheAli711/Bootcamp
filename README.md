@@ -1,4 +1,5 @@
 # Bootcamp
+UPDATE : theali711.surge.sh
 panacloud fasttrack bootcamp practice by Ali Mansoor
 
 So basically im learning github action workflow and yaml and surge in this bootcamp.
