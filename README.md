@@ -1,5 +1,5 @@
 # Bootcamp
-UPDATE : theali711.surge.sh
+UPDATE : http://theali711.surge.sh
 
 panacloud fasttrack bootcamp practice by Ali Mansoor
 
